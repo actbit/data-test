@@ -1,6 +1,18 @@
 [
   {
-    "name": "CultureDepartmentCount",
+    "name": "CultureDepartment_0",
+    "text": "ロボ研"
+  },
+  {
+    "name": "CultureDepartment_1",
+    "text": "マイコン部"
+  },
+  {
+    "name": "CultureDepartment_2",
+    "text": "文化会"
+  },
+  {
+    "name": "CultureDepartment_Count",
     "text": "3"
   },
   {
