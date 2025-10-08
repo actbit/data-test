@@ -1,5 +1,13 @@
 [
   {
+    "name": "exhibition_name_1",
+    "text": "aaa"
+  },
+  {
+    "name": "exhibition_name_2",
+    "text": "bbb"
+  },
+  {
     "name": "firework_desc",
     "text": "花火だよ！全員集合！"
   },
