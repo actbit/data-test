@@ -30,5 +30,37 @@
   {
     "name": "schedule_title_2",
     "text": "軽音ステージ"
+  },
+  {
+    "name": "x_shop_menu_1",
+    "text": "フライドポテト"
+  },
+  {
+    "name": "x_shop_menu_2",
+    "text": "ねるねるねるね"
+  },
+  {
+    "name": "x_shop_name_1",
+    "text": "いいい"
+  },
+  {
+    "name": "x_shop_name_2",
+    "text": "ううう"
+  },
+  {
+    "name": "y_shop_menu_1",
+    "text": "たこやき"
+  },
+  {
+    "name": "y_shop_menu_2",
+    "text": "すたーばっくす"
+  },
+  {
+    "name": "y_shop_name_1",
+    "text": "あああ"
+  },
+  {
+    "name": "y_shop_name_2",
+    "text": "えええ"
   }
 ]
