@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "name": "guest_desc",
+    "text": "学祭を盛り上げます！\r\nがんばります！"
+  },
+  {
+    "name": "guest_name",
+    "text": "学祭委員長"
+  },
+  {
+    "name": "schedule_location_1",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_2",
+    "text": "多目的ホール"
+  },
+  {
+    "name": "schedule_time_1",
+    "text": "10:00"
+  },
+  {
+    "name": "schedule_time_2",
+    "text": "14:00-17:00"
+  },
+  {
+    "name": "schedule_title_1",
+    "text": "受付"
+  },
+  {
+    "name": "schedule_title_2",
+    "text": "軽音ステージ"
+  }
+]
