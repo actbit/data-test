@@ -4,12 +4,20 @@
     "text": "せつめいです"
   },
   {
+    "name": "exhibition_desc_3",
+    "text": "dwewesd"
+  },
+  {
     "name": "exhibition_name_1",
     "text": "aaa"
   },
   {
     "name": "exhibition_name_2",
     "text": "bbb"
+  },
+  {
+    "name": "exhibition_name_3",
+    "text": "aaaaaeeedd"
   },
   {
     "name": "firework_desc",
@@ -52,6 +60,10 @@
     "text": "軽音ステージ"
   },
   {
+    "name": "schedule_title_3",
+    "text": "aaaaa"
+  },
+  {
     "name": "x_shop_menu_1",
     "text": "フライドポテト"
   },
@@ -70,10 +82,6 @@
   {
     "name": "y_shop_menu_1",
     "text": "たこやき"
-  },
-  {
-    "name": "y_shop_menu_2",
-    "text": "すたーばっくす"
   },
   {
     "name": "y_shop_name_1",
